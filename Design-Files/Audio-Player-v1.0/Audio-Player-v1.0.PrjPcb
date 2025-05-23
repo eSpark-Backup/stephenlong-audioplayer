@@ -134,6 +134,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GLCDDSXC
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Audio-Player-v1.0\Design Rule Check - Audio-Player-v1.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
