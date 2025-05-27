@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Audio-Player-v1.0.PcbDoc   5/27/2025  5:39:11 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Audio-Player-v1.0-RoundHoles.TXT
+ASCII SlotHoles File : Audio-Player-v1.0-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.3mm (12mil)                                             Round             204       PTH        655.31mm (25.80inch)
+T2      0.6mm (24mil)                                             Slot              6         PTH        135.03mm (5.32inch)
+T3      0.92mm (36mil)                                            Round             12        PTH        160.38mm (6.31inch)
+T4      1.2mm (47mil)                                             Round             2         PTH        7.50mm (0.30inch)
+T5      3mm (118mil)                                              Round             4         PTH        130.92mm (5.15inch)
+T6      0.62mm (24mil)                                            Round             2         NPTH       5.78mm (0.23inch)
+T7      1.4mm (55mil)                                             Round             2         NPTH       7.00mm (0.28inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              232
+
+Total Processing Time (hh:mm:ss) : 00:00:01
