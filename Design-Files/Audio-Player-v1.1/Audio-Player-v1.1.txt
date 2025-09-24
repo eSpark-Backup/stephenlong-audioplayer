@@ -1,0 +1,17 @@
+Board Information Report
+Filename     : S:\stephenlong-audioplayer\Design-Files\Audio-Player-v1.1\Audio-Player-v1.1.PcbDoc
+Date         : 9/24/2025
+Time         : 4:15:32 PM
+Time Elapsed : 00:00:00
+
+Routing Information
+    Routing completion, 30.42%
+    Connections, 240
+    Connections routed, 73
+    Connections remaining, 167
+count : 4
+
+Net Track Width, Count
+    7mils, 70
+    10mils, 2
+count : 2
